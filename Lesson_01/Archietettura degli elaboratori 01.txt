@@ -1,0 +1,9 @@
+Lezione 1 di Laboratorio:
+
+LUCIDO 0:
+Scegliere visual c++ perchè l'ambiente sarà predisposto in modo simile a tutti gli altri.
+
+Funzioni avanzate di debugger: https://docs.microsoft.com/it-it/visualstudio/debugger/debugger-feature-tour?view=vs-2019
+I valori delle variabili prima della dichiarazione hanno al loro interno valori casuali.
+F5 per arrivare alla fine dell'esecuzione con il debugger.
+
